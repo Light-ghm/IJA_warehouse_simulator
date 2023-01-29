@@ -1,0 +1,36 @@
+<project>
+    <property name="build.dir" value="build"/>
+    <property name="dest.dir" value="dest"/>
+    <property name="src.dir" value="src/ija_project"/>
+    <property name="compiler-args" value="-encoding UTF-8 -source 8 -target 1.8"/>
+
+    <!-- CLEAN -->
+    <target name="clean" description="clean module">
+        <delete dir="${build.dir}"/>
+        <delete dir="${dest.dir}"/>
+    </target>
+
+    <!-- COMPILE -->
+    <target name="compile-build" description="compile to build">
+        <mkdir dir="${build.dir}"/>
+        <javac srcdir="${src.dir}" destdir="${build.dir}" includeantruntime="false">
+            <compilerarg line="${compiler-args}"/>
+        </javac>
+    </target>
+
+    <!-- CREATE JAR -->
+    <target name="compile" depends="compile-build" description="create jar">
+        <mkdir dir="${dest.dir}"/>
+        <jar destfile="dest/ija-app.jar" basedir="${build.dir}">
+            <zipfileset dir="${src.dir}/layouts" prefix="ija_project/layouts"/>
+            <manifest>
+                <attribute name="Main-Class" value="ija_project.Main"/>
+            </manifest>
+        </jar>
+    </target>
+
+    <!-- RUN -->
+    <target name="run" depends="compile-build, compile" description="run application">
+        <java jar="dest/ija-app.jar" fork="true"/>
+    </target>
+</project>

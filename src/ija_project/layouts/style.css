@@ -1,0 +1,19 @@
+.root{
+    -fx-background-color: #666666;
+}
+.label {
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+    -fx-effect: dropshadow( gaussian , rgba(255,255,255,0.5) , 0,0,0,1 );
+    -fx-alignment: CENTER;
+}
+
+.button {
+    -fx-cursor: hand;
+    -fx-background-color: #7D27A9;
+    -fx-font-weight: bold;
+}
+.text-field {
+    -fx-font-weight: bold;
+    -fx-background-color: #6B00B8;
+}
