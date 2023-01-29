@@ -15,6 +15,6 @@ Program si naplní a zobrazí sklad a automaticky vyšle 5 vozíkov na spracovan
 Uživateľ môže vytvoriť nové objednávky, alebo zrýchlovať/spomalovať spracovanie požiadavkov, sledovať obsah vozíkov/skladu hovernutím kurzorom, poprípade
 zavrieť uličku pomocou UI.
 
-# Náhlad:
+# Náhľad:
 
 ![image](app.png)
