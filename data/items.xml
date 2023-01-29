@@ -1,0 +1,905 @@
+<?xml version = "1.0"?>
+<class>
+	<shelfs>
+		<shelf shelfid="0">
+			
+		</shelf>
+
+		<shelf shelfid="1">
+
+		</shelf>
+
+		<shelf shelfid="2">
+
+		</shelf>
+
+		<shelf shelfid="3">
+
+		</shelf>
+
+		<shelf shelfid="4">
+
+		</shelf>
+
+		<shelf shelfid="5">
+
+		</shelf>
+
+		<shelf shelfid="6">
+
+		</shelf>
+
+		<shelf shelfid="7">
+
+		</shelf>
+
+		<shelf shelfid="8">
+
+		</shelf>
+
+		<shelf shelfid="9">
+			
+		</shelf>
+
+		<shelf shelfid="10">
+
+		</shelf>
+
+		<shelf shelfid="11">
+
+		</shelf>
+
+		<shelf shelfid="12">
+
+		</shelf>
+
+		<shelf shelfid="13">
+
+		</shelf>
+
+		<shelf shelfid="14">
+
+		</shelf>
+
+		<shelf shelfid="15">
+
+		</shelf>
+
+		<shelf shelfid="16">
+
+		</shelf>
+
+		<shelf shelfid="17">
+
+		</shelf>
+
+		<shelf shelfid="18">
+			
+		</shelf>
+
+		<shelf shelfid="19">
+
+		</shelf>
+
+		<shelf shelfid="20">
+
+		</shelf>
+
+		<shelf shelfid="21">
+
+		</shelf>
+
+		<shelf shelfid="22">
+
+		</shelf>
+
+		<shelf shelfid="23">
+
+		</shelf>
+
+		<shelf shelfid="24">
+
+		</shelf>
+
+		<shelf shelfid="25">
+
+		</shelf>
+
+		<shelf shelfid="26">
+
+		</shelf>
+
+		<shelf shelfid="27">
+			
+		</shelf>
+
+		<shelf shelfid="28">
+
+		</shelf>
+
+		<shelf shelfid="29">
+
+		</shelf>
+
+		<shelf shelfid="30">
+
+		</shelf>
+
+		<shelf shelfid="31">
+
+		</shelf>
+
+		<shelf shelfid="32">
+
+		</shelf>
+
+		<shelf shelfid="33">
+
+		</shelf>
+
+		<shelf shelfid="34">
+
+		</shelf>
+
+		<shelf shelfid="35">
+
+		</shelf>
+
+		<shelf shelfid="36">
+			
+		</shelf>
+
+		<shelf shelfid="37">
+
+		</shelf>
+
+		<shelf shelfid="38">
+
+		</shelf>
+
+		<shelf shelfid="39">
+
+		</shelf>
+
+		<shelf shelfid="40">
+
+		</shelf>
+
+		<shelf shelfid="41">
+
+		</shelf>
+
+		<shelf shelfid="42">
+
+		</shelf>
+
+		<shelf shelfid="43">
+
+		</shelf>
+
+		<shelf shelfid="44">
+
+		</shelf>
+
+		<shelf shelfid="45">
+			
+		</shelf>
+
+		<shelf shelfid="46">
+
+		</shelf>
+
+		<shelf shelfid="47">
+
+		</shelf>
+
+		<shelf shelfid="48">
+
+		</shelf>
+
+		<shelf shelfid="49">
+
+		</shelf>
+
+		<shelf shelfid="50">
+
+		</shelf>
+
+		<shelf shelfid="51">
+
+		</shelf>
+
+		<shelf shelfid="52">
+
+		</shelf>
+
+		<shelf shelfid="53">
+
+		</shelf>
+
+		<shelf shelfid="54">
+			
+		</shelf>
+
+		<shelf shelfid="55">
+
+		</shelf>
+
+		<shelf shelfid="56">
+
+		</shelf>
+
+		<shelf shelfid="57">
+
+		</shelf>
+
+		<shelf shelfid="58">
+
+		</shelf>
+
+		<shelf shelfid="59">
+
+		</shelf>
+
+		<shelf shelfid="60">
+
+		</shelf>
+
+		<shelf shelfid="61">
+
+		</shelf>
+
+		<shelf shelfid="62">
+
+		</shelf>
+
+		<shelf shelfid="63">
+			
+		</shelf>
+
+		<shelf shelfid="64">
+
+		</shelf>
+
+		<shelf shelfid="65">
+
+		</shelf>
+
+		<shelf shelfid="66">
+
+		</shelf>
+
+		<shelf shelfid="67">
+
+		</shelf>
+
+		<shelf shelfid="68">
+
+		</shelf>
+
+		<shelf shelfid="69">
+
+		</shelf>
+
+		<shelf shelfid="70">
+
+		</shelf>
+
+		<shelf shelfid="71">
+
+		</shelf>
+
+		<shelf shelfid="72">
+			
+		</shelf>
+
+		<shelf shelfid="73">
+
+		</shelf>
+
+		<shelf shelfid="74">
+
+		</shelf>
+
+		<shelf shelfid="75">
+
+		</shelf>
+
+		<shelf shelfid="76">
+
+		</shelf>
+
+		<shelf shelfid="77">
+
+		</shelf>
+
+		<shelf shelfid="78">
+
+		</shelf>
+
+		<shelf shelfid="79">
+
+		</shelf>
+
+		<shelf shelfid="80">
+
+		</shelf>
+
+		<shelf shelfid="81">
+			
+		</shelf>
+
+		<shelf shelfid="82">
+
+		</shelf>
+
+		<shelf shelfid="83">
+
+		</shelf>
+
+		<shelf shelfid="84">
+
+		</shelf>
+
+		<shelf shelfid="85">
+
+		</shelf>
+
+		<shelf shelfid="86">
+
+		</shelf>
+
+		<shelf shelfid="87">
+
+		</shelf>
+
+		<shelf shelfid="88">
+
+		</shelf>
+
+		<shelf shelfid="89">
+
+		</shelf>
+
+		<shelf shelfid="90">
+			
+		</shelf>
+
+		<shelf shelfid="91">
+
+		</shelf>
+
+		<shelf shelfid="92">
+
+		</shelf>
+
+		<shelf shelfid="93">
+
+		</shelf>
+
+		<shelf shelfid="94">
+
+		</shelf>
+
+		<shelf shelfid="95">
+
+		</shelf>
+
+		<shelf shelfid="96">
+
+		</shelf>
+
+		<shelf shelfid="97">
+
+		</shelf>
+
+		<shelf shelfid="98">
+
+		</shelf>
+
+		<shelf shelfid="99">
+			
+		</shelf>
+
+		<shelf shelfid="100">
+
+		</shelf>
+
+		<shelf shelfid="101">
+
+		</shelf>
+
+		<shelf shelfid="102">
+
+		</shelf>
+
+		<shelf shelfid="103">
+
+		</shelf>
+
+		<shelf shelfid="104">
+
+		</shelf>
+
+		<shelf shelfid="105">
+
+		</shelf>
+
+		<shelf shelfid="106">
+
+		</shelf>
+
+		<shelf shelfid="107">
+
+		</shelf>
+
+		<shelf shelfid="108">
+			
+		</shelf>
+
+		<shelf shelfid="109">
+
+		</shelf>
+
+		<shelf shelfid="110">
+
+		</shelf>
+
+		<shelf shelfid="111">
+
+		</shelf>
+
+		<shelf shelfid="112">
+
+		</shelf>
+
+		<shelf shelfid="113">
+
+		</shelf>
+
+		<shelf shelfid="114">
+
+		</shelf>
+
+		<shelf shelfid="115">
+
+		</shelf>
+
+		<shelf shelfid="116">
+
+		</shelf>
+
+		<shelf shelfid="117">
+			
+		</shelf>
+
+		<shelf shelfid="118">
+
+		</shelf>
+
+		<shelf shelfid="119">
+
+		</shelf>
+
+		<shelf shelfid="120">
+
+		</shelf>
+
+		<shelf shelfid="121">
+
+		</shelf>
+
+		<shelf shelfid="122">
+
+		</shelf>
+
+		<shelf shelfid="123">
+
+		</shelf>
+
+		<shelf shelfid="124">
+
+		</shelf>
+
+		<shelf shelfid="125">
+
+		</shelf>
+
+		<shelf shelfid="126">
+			
+		</shelf>
+
+		<shelf shelfid="127">
+
+		</shelf>
+
+		<shelf shelfid="128">
+
+		</shelf>
+
+		<shelf shelfid="129">
+
+		</shelf>
+
+		<shelf shelfid="130">
+
+		</shelf>
+
+		<shelf shelfid="131">
+
+		</shelf>
+
+		<shelf shelfid="132">
+
+		</shelf>
+
+		<shelf shelfid="133">
+
+		</shelf>
+
+		<shelf shelfid="134">
+
+		</shelf>
+
+		<shelf shelfid="135">
+			
+		</shelf>
+
+		<shelf shelfid="136">
+
+		</shelf>
+
+		<shelf shelfid="137">
+
+		</shelf>
+
+		<shelf shelfid="138">
+
+		</shelf>
+
+		<shelf shelfid="139">
+
+		</shelf>
+
+		<shelf shelfid="140">
+
+		</shelf>
+
+		<shelf shelfid="141">
+
+		</shelf>
+
+		<shelf shelfid="142">
+
+		</shelf>
+
+		<shelf shelfid="143">
+
+		</shelf>
+
+
+		<shelf shelfid="144">
+
+		</shelf>
+
+		<shelf shelfid="145">
+
+		</shelf>
+
+		<shelf shelfid="146">
+
+		</shelf>
+
+		<shelf shelfid="147">
+
+		</shelf>
+
+		<shelf shelfid="148">
+
+		</shelf>
+
+		<shelf shelfid="149">
+
+		</shelf>
+
+		<shelf shelfid="150">
+
+		</shelf>
+
+		<shelf shelfid="151">
+
+		</shelf>
+
+		<shelf shelfid="152">
+			
+		</shelf>
+
+		<shelf shelfid="153">
+
+		</shelf>
+
+		<shelf shelfid="154">
+
+		</shelf>
+
+		<shelf shelfid="155">
+
+		</shelf>
+
+		<shelf shelfid="156">
+
+		</shelf>
+
+		<shelf shelfid="157">
+
+		</shelf>
+
+		<shelf shelfid="158">
+
+		</shelf>
+
+		<shelf shelfid="159">
+
+		</shelf>
+
+	</shelfs>
+
+	<items>
+		<item itemid="0">
+			<name>Samsung Galaxy A41</name>
+			<quantity>15</quantity>
+		</item>
+
+		<item itemid="1">
+			<name>iPhone 11 64 GB</name>
+			<quantity>18</quantity>
+		</item>
+
+		<item itemid="2">
+			<name>Xiaomi Redmi Note 9 Pro</name>
+			<quantity>4</quantity>
+		</item>
+
+		<item itemid="3">
+			<name>Samsung Galaxy A52</name>
+			<quantity>42</quantity>
+		</item>
+
+		<item itemid="4">
+			<name>Realme 7 Pro</name>
+			<quantity>3</quantity>
+		</item>
+
+		<item itemid="5">
+			<name>Xiaomi Mi 10 Lite</name>
+			<quantity>4</quantity>
+		</item>
+
+		<item itemid="6">
+			<name>Acer Nitro 5</name>
+			<quantity>17</quantity>
+		</item>
+
+		<item itemid="7">
+			<name>Macbook Air</name>
+			<quantity>33</quantity>
+		</item>
+
+		<item itemid="8">
+			<name>Dell G5 15 Gaming</name>
+			<quantity>9</quantity>
+		</item>
+
+		<item itemid="9">
+			<name>HP ProBook</name>
+			<quantity>42</quantity>
+		</item>
+
+		<item itemid="10">
+			<name>Lenovo Yoga</name>
+			<quantity>3</quantity>
+		</item>
+
+		<item itemid="11">
+			<name>HP ProBook</name>
+			<quantity>24</quantity>
+		</item>
+	
+		<item itemid="12">
+			<name>Lenovo TAB M10 Plus</name>
+			<quantity>15</quantity>
+		</item>
+
+		<item itemid="13">
+			<name>iPad 10.2 128 GB</name>
+			<quantity>35</quantity>
+		</item>
+
+		<item itemid="14">
+			<name>Samsung Galaxy Tab S7</name>
+			<quantity>23</quantity>
+		</item>
+
+		<item itemid="15">
+			<name>iPad Pro 11" 256 GB</name>
+			<quantity>36</quantity>
+		</item>
+
+		<item itemid="16">
+			<name>Lenovo Tab M10</name>
+			<quantity>38</quantity>
+		</item>
+
+		<item itemid="17">
+			<name>Xiaomi Mi 10 Lite</name>
+			<quantity>32</quantity>
+		</item>
+
+		<item itemid="18">
+			<name>Lenovo TAB P11 4 GB + 128 GB Slate Grey</name>
+			<quantity>19</quantity>
+		</item>
+
+		<item itemid="19">
+			<name>Headphones HyperX Cloud Stinger</name>
+			<quantity>37</quantity>
+		</item>
+
+		<item itemid="20">
+			<name>Headphones JBL Tune 500BT</name>
+			<quantity>29</quantity>
+		</item>
+
+		<item itemid="21">
+			<name>Headset HyperX Cloud II</name>
+			<quantity>42</quantity>
+		</item>
+
+		<item itemid="22">
+			<name>Headphones Corsair HS70 PRO</name>
+			<quantity>35</quantity>
+		</item>
+
+		<item itemid="23">
+			<name>Headset Logitech G PRO X Gaming</name>
+			<quantity>48</quantity>
+		</item>
+
+		<item itemid="24">
+			<name>Headset Zalman ZM-HPS300</name>
+			<quantity>16</quantity>
+		</item>
+
+		<item itemid="25">
+			<name>Xbox Series S</name>
+			<quantity>38</quantity>
+		</item>
+
+		<item itemid="26">
+			<name>PlayStation 4 Slim 500 GB</name>
+			<quantity>45</quantity>
+		</item>
+
+		<item itemid="27">
+			<name>Nintendo Switch</name>
+			<quantity>77</quantity>
+		</item>
+
+		<item itemid="28">
+			<name>NVIDIA SHIELD TV PRO</name>
+			<quantity>43</quantity>
+		</item>
+
+		<item itemid="29">
+			<name>NVIDIA SHIELD Controller</name>
+			<quantity>39</quantity>
+		</item>
+
+		<item itemid="30">
+			<name>My Arcade Pixel Player</name>
+			<quantity>44</quantity>
+		</item>
+
+		<item itemid="31">
+			<name>Play Station 5</name>
+			<quantity>67</quantity>
+		</item>
+
+		<item itemid="32">
+			<name>Play Station 3</name>
+			<quantity>33</quantity>
+		</item>
+
+		<item itemid="33">
+			<name>Samsung Galaxy Watch Active 2</name>
+			<quantity>84</quantity>
+		</item>
+
+		<item itemid="34">
+			<name>Apple Watch Series 6</name>
+			<quantity>55</quantity>
+		</item>
+
+		<item itemid="35">
+			<name>Xiaomi Mi Band 5</name>
+			<quantity>18</quantity>
+		</item>
+
+		<item itemid="36">
+			<name>Xiaomi Mi Band 4</name>
+			<quantity>19</quantity>
+		</item>
+	
+		<item itemid="37">
+			<name>PC Acer Predator Orion 3000</name>
+			<quantity>15</quantity>
+		</item>
+
+		<item itemid="38">
+			<name>PC Acer Aspire TC-895 Gaming</name>
+			<quantity>28</quantity>
+		</item>
+
+		<item itemid="39">
+			<name>PC MSI MEG Infinite X</name>
+			<quantity>35</quantity>
+		</item>
+
+		<item itemid="40">
+			<name>PC ASUS ROG Strix G15CK</name>
+			<quantity>45</quantity>
+		</item>
+
+		<item itemid="41">
+			<name>Monitor 27" AOC 27G2U Gaming</name>
+			<quantity>33</quantity>
+		</item>
+
+		<item itemid="42"> 
+			<name>Monitor 27" LG 27UL850-W</name>
+			<quantity>32</quantity>
+		</item>
+
+		<item itemid="43">
+			<name>Monitor 32" Philips 328P6VUBREB</name>
+			<quantity>59</quantity>
+		</item>
+
+		<item itemid="44">
+			<name>Monitor 49" Samsung C49J89</name>
+			<quantity>77</quantity>
+		</item>
+
+		<item itemid="45">
+			<name>Monitor 23,8" Dell P2419H Professional</name>
+			<quantity>49</quantity>
+		</item>
+
+		<item itemid="46">
+			<name>Monitor 27" AOC U2790PQU</name>
+			<quantity>42</quantity>
+		</item>
+
+		<item itemid="47">
+			<name>Monitor 28" Samsung U28E590</name>
+			<quantity>35</quantity>
+		</item>
+
+		<item itemid="48">
+			<name>Monitor 24" MSI Optix G24C4</name>
+			<quantity>65</quantity>
+		</item>
+
+		<item itemid="49">
+			<name>Monitor 27" Samsung C27F396</name>
+			<quantity>66</quantity>
+		</item>
+
+		<item itemid="50">
+			<name>Monitor 24" ASUS VG249Q Gaming</name>
+			<quantity>55</quantity>
+		</item>
+
+	</items>
+
+</class>

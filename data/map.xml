@@ -1,0 +1,595 @@
+<?xml version="1.0"?>
+<class>
+    <coordinates>
+        <coord coordid="0" x="50" y="800"/>
+        <coord coordid="1" x="700" y="50"/>
+
+
+        <coord coordid="2" x="75" y="75"/>
+        <coord coordid="3" x="225" y="75"/>
+        <coord coordid="4" x="375" y="75"/>
+        <coord coordid="5" x="525" y="75"/>
+        <coord coordid="6" x="675" y="75"/>
+
+        <coord coordid="7" x="675" y="425"/>
+
+        <coord coordid="8" x="675" y="775"/>
+
+        <coord coordid="9" x="525" y="775"/>
+        <coord coordid="10" x="375" y="775"/>
+
+        <coord coordid="11" x="225" y="775"/>
+        <coord coordid="12" x="75" y="775"/>
+        <coord coordid="13" x="75" y="425"/>
+        <coord coordid="14" x="225" y="425"/>
+        <coord coordid="15" x="375" y="425"/>
+        <coord coordid="16" x="525" y="425"/>
+
+        <!-- LOADING POINT: Column x=75 -->
+        <coord coordid="17" x="75" y="115"/>
+        <coord coordid="18" x="75" y="145"/>
+        <coord coordid="19" x="75" y="175"/>
+        <coord coordid="20" x="75" y="205"/>
+        <coord coordid="21" x="75" y="235"/>
+        <coord coordid="22" x="75" y="265"/>
+        <coord coordid="23" x="75" y="295"/>
+        <coord coordid="24" x="75" y="325"/>
+        <coord coordid="25" x="75" y="355"/>
+        <coord coordid="26" x="75" y="385"/>
+
+
+        <coord coordid="27" x="75" y="465"/>
+        <coord coordid="28" x="75" y="495"/>
+        <coord coordid="29" x="75" y="525"/>
+        <coord coordid="30" x="75" y="555"/>
+        <coord coordid="31" x="75" y="585"/>
+        <coord coordid="32" x="75" y="615"/>
+        <coord coordid="33" x="75" y="645"/>
+        <coord coordid="34" x="75" y="675"/>
+        <coord coordid="35" x="75" y="705"/>
+        <coord coordid="36" x="75" y="735"/>
+
+
+        <!-- LOADING POINT: Column x=225 -->
+        <coord coordid="37" x="225" y="115"/>
+        <coord coordid="38" x="225" y="145"/>
+        <coord coordid="39" x="225" y="175"/>
+        <coord coordid="40" x="225" y="205"/>
+        <coord coordid="41" x="225" y="235"/>
+        <coord coordid="42" x="225" y="265"/>
+        <coord coordid="43" x="225" y="295"/>
+        <coord coordid="44" x="225" y="325"/>
+        <coord coordid="45" x="225" y="355"/>
+        <coord coordid="46" x="225" y="385"/>
+
+
+        <coord coordid="47" x="225" y="465"/>
+        <coord coordid="48" x="225" y="495"/>
+        <coord coordid="49" x="225" y="525"/>
+        <coord coordid="50" x="225" y="555"/>
+        <coord coordid="51" x="225" y="585"/>
+        <coord coordid="52" x="225" y="615"/>
+        <coord coordid="53" x="225" y="645"/>
+        <coord coordid="54" x="225" y="675"/>
+        <coord coordid="55" x="225" y="705"/>
+        <coord coordid="56" x="225" y="735"/>
+
+
+        <!-- LOADING POINT: Column x=375 -->
+        <coord coordid="57" x="375" y="115"/>
+        <coord coordid="58" x="375" y="145"/>
+        <coord coordid="59" x="375" y="175"/>
+        <coord coordid="60" x="375" y="205"/>
+        <coord coordid="61" x="375" y="235"/>
+        <coord coordid="62" x="375" y="265"/>
+        <coord coordid="63" x="375" y="295"/>
+        <coord coordid="64" x="375" y="325"/>
+        <coord coordid="65" x="375" y="355"/>
+        <coord coordid="66" x="375" y="385"/>
+
+
+        <coord coordid="67" x="375" y="465"/>
+        <coord coordid="68" x="375" y="495"/>
+        <coord coordid="69" x="375" y="525"/>
+        <coord coordid="70" x="375" y="555"/>
+        <coord coordid="71" x="375" y="585"/>
+        <coord coordid="72" x="375" y="615"/>
+        <coord coordid="73" x="375" y="645"/>
+        <coord coordid="74" x="375" y="675"/>
+        <coord coordid="75" x="375" y="705"/>
+        <coord coordid="76" x="375" y="735"/>
+
+
+        <!-- LOADING POINT: Column x=525 -->
+        <coord coordid="77" x="525" y="115"/>
+        <coord coordid="78" x="525" y="145"/>
+        <coord coordid="79" x="525" y="175"/>
+        <coord coordid="80" x="525" y="205"/>
+        <coord coordid="81" x="525" y="235"/>
+        <coord coordid="82" x="525" y="265"/>
+        <coord coordid="83" x="525" y="295"/>
+        <coord coordid="84" x="525" y="325"/>
+        <coord coordid="85" x="525" y="355"/>
+        <coord coordid="86" x="525" y="385"/>
+
+
+        <coord coordid="87" x="525" y="465"/>
+        <coord coordid="88" x="525" y="495"/>
+        <coord coordid="89" x="525" y="525"/>
+        <coord coordid="90" x="525" y="555"/>
+        <coord coordid="91" x="525" y="585"/>
+        <coord coordid="92" x="525" y="615"/>
+        <coord coordid="93" x="525" y="645"/>
+        <coord coordid="94" x="525" y="675"/>
+        <coord coordid="95" x="525" y="705"/>
+        <coord coordid="96" x="525" y="735"/>
+
+
+        <!-- LOADING POINT: Column x=675 -->
+        <coord coordid="97" x="675" y="115"/>
+        <coord coordid="98" x="675" y="145"/>
+        <coord coordid="99" x="675" y="175"/>
+        <coord coordid="100" x="675" y="205"/>
+        <coord coordid="101" x="675" y="235"/>
+        <coord coordid="102" x="675" y="265"/>
+        <coord coordid="103" x="675" y="295"/>
+        <coord coordid="104" x="675" y="325"/>
+        <coord coordid="105" x="675" y="355"/>
+        <coord coordid="106" x="675" y="385"/>
+
+
+        <coord coordid="107" x="675" y="465"/>
+        <coord coordid="108" x="675" y="495"/>
+        <coord coordid="109" x="675" y="525"/>
+        <coord coordid="110" x="675" y="555"/>
+        <coord coordid="111" x="675" y="585"/>
+        <coord coordid="112" x="675" y="615"/>
+        <coord coordid="113" x="675" y="645"/>
+        <coord coordid="114" x="675" y="675"/>
+        <coord coordid="115" x="675" y="705"/>
+        <coord coordid="116" x="675" y="735"/>
+    </coordinates>
+
+    <parking coord="0"/>
+    
+    <departure coord="1"/>
+    
+
+
+    <aisles>
+        <aisle aisleid="0" coord1="2" coord2="3"/>
+
+        <aisle aisleid="1" coord1="3" coord2="4"/>
+        <aisle aisleid="2" coord1="4" coord2="5"/>
+
+        <aisle aisleid="3" coord1="5" coord2="6"/>
+
+
+        <aisle aisleid="4" coord1="6" coord2="7"/>
+
+
+        <aisle aisleid="5" coord1="7" coord2="8"/>
+
+        <aisle aisleid="6" coord1="8" coord2="9"/>
+
+        <aisle aisleid="7" coord1="9" coord2="10"/>
+
+        <aisle aisleid="8" coord1="10" coord2="11"/>
+        <aisle aisleid="9" coord1="11" coord2="12"/>
+        <aisle aisleid="10" coord1="12" coord2="13"/>
+        <aisle aisleid="11" coord1="13" coord2="2"/>
+        <aisle aisleid="12" coord1="3" coord2="14"/>
+        <aisle aisleid="13" coord1="4" coord2="15"/>
+        <aisle aisleid="14" coord1="5" coord2="16"/>
+        <aisle aisleid="15" coord1="14" coord2="11"/>
+        <aisle aisleid="16" coord1="15" coord2="10"/>
+        <aisle aisleid="17" coord1="16" coord2="9"/>
+        <aisle aisleid="18" coord1="13" coord2="14"/>
+        <aisle aisleid="19" coord1="14" coord2="15"/>
+        <aisle aisleid="20" coord1="15" coord2="16"/>
+        <aisle aisleid="21" coord1="16" coord2="7"/>
+        <aisle aisleid="22" coord1="0" coord2="12"/>
+        <aisle aisleid="23" coord1="1" coord2="6"/>
+    </aisles>
+    
+ 
+    <loadingpoints>
+        <!-- LOADING POINT: Column x=75 -->
+        <loadingpoint aisle="11" coord="17">
+            <shelf id="0"/>
+        </loadingpoint>
+        <loadingpoint aisle="11" coord="18">
+            <shelf id="2"/>
+        </loadingpoint>
+        <loadingpoint aisle="11" coord="19">
+            <shelf id="4"/>
+        </loadingpoint>
+        <loadingpoint aisle="11" coord="20">
+            <shelf id="6"/>
+        </loadingpoint>
+        <loadingpoint aisle="11" coord="21">
+            <shelf id="8"/>
+        </loadingpoint>
+        <loadingpoint aisle="11" coord="22">
+            <shelf id="10"/>
+        </loadingpoint>
+        <loadingpoint aisle="11" coord="23">
+            <shelf id="12"/>
+        </loadingpoint>
+        <loadingpoint aisle="11" coord="24">
+            <shelf id="14"/>
+        </loadingpoint>
+        <loadingpoint aisle="11" coord="25">
+            <shelf id="16"/>
+        </loadingpoint>
+        <loadingpoint aisle="11" coord="26">
+            <shelf id="18"/>
+        </loadingpoint>
+
+
+        <loadingpoint aisle="10" coord="27">
+            <shelf id="20"/>
+        </loadingpoint>
+        <loadingpoint aisle="10" coord="28">
+            <shelf id="22"/>
+        </loadingpoint>
+        <loadingpoint aisle="10" coord="29">
+            <shelf id="24"/>
+        </loadingpoint>
+        <loadingpoint aisle="10" coord="30">
+            <shelf id="26"/>
+        </loadingpoint>
+        <loadingpoint aisle="10" coord="31">
+            <shelf id="28"/>
+        </loadingpoint>
+        <loadingpoint aisle="10" coord="32">
+            <shelf id="30"/>
+        </loadingpoint>
+        <loadingpoint aisle="10" coord="33">
+            <shelf id="32"/>
+        </loadingpoint>
+        <loadingpoint aisle="10" coord="34">
+            <shelf id="34"/>
+        </loadingpoint>
+        <loadingpoint aisle="10" coord="35">
+            <shelf id="36"/>
+        </loadingpoint>
+        <loadingpoint aisle="10" coord="36">
+            <shelf id="38"/>
+        </loadingpoint>
+
+
+
+        <!-- LOADING POINT: Column x=225 -->
+        <loadingpoint aisle="12" coord="37">
+            <shelf id="1"/>
+            <shelf id="40"/>
+        </loadingpoint>
+        <loadingpoint aisle="12" coord="38">
+            <shelf id="3"/>
+            <shelf id="42"/>
+        </loadingpoint>
+        <loadingpoint aisle="12" coord="39">
+            <shelf id="5"/>
+            <shelf id="44"/>
+        </loadingpoint>
+        <loadingpoint aisle="12" coord="40">
+            <shelf id="7"/>
+            <shelf id="46"/>
+        </loadingpoint>
+        <loadingpoint aisle="12" coord="41">
+            <shelf id="9"/>
+            <shelf id="48"/>
+        </loadingpoint>
+        <loadingpoint aisle="12" coord="42">
+            <shelf id="11"/>
+            <shelf id="50"/>
+        </loadingpoint>
+        <loadingpoint aisle="12" coord="43">
+            <shelf id="13"/>
+            <shelf id="52"/>
+        </loadingpoint>
+        <loadingpoint aisle="12" coord="44">
+            <shelf id="15"/>
+            <shelf id="54"/>
+        </loadingpoint>
+        <loadingpoint aisle="12" coord="45">
+            <shelf id="17"/>
+            <shelf id="56"/>
+        </loadingpoint>
+        <loadingpoint aisle="12" coord="46">
+            <shelf id="19"/>
+            <shelf id="58"/>
+        </loadingpoint>
+
+
+        <loadingpoint aisle="15" coord="47">
+            <shelf id="21"/>
+            <shelf id="60"/>
+        </loadingpoint>
+        <loadingpoint aisle="15" coord="48">
+            <shelf id="23"/>
+            <shelf id="62"/>
+        </loadingpoint>
+        <loadingpoint aisle="15" coord="49">
+            <shelf id="25"/>
+            <shelf id="64"/>
+        </loadingpoint>
+        <loadingpoint aisle="15" coord="50">
+            <shelf id="27"/>
+            <shelf id="66"/>
+        </loadingpoint>
+        <loadingpoint aisle="15" coord="51">
+            <shelf id="29"/>
+            <shelf id="68"/>
+        </loadingpoint>
+        <loadingpoint aisle="15" coord="52">
+            <shelf id="31"/>
+            <shelf id="70"/>
+        </loadingpoint>
+        <loadingpoint aisle="15" coord="53">
+            <shelf id="33"/>
+            <shelf id="72"/>
+        </loadingpoint>
+        <loadingpoint aisle="15" coord="54">
+            <shelf id="35"/>
+            <shelf id="74"/>
+        </loadingpoint>
+        <loadingpoint aisle="15" coord="55">
+            <shelf id="37"/>
+            <shelf id="76"/>
+        </loadingpoint>
+        <loadingpoint aisle="15" coord="56">
+            <shelf id="39"/>
+            <shelf id="78"/>
+        </loadingpoint>
+
+
+
+        <!-- LOADING POINT: Column x=375 -->
+        <loadingpoint aisle="13" coord="57">
+            <shelf id="41"/>
+            <shelf id="80"/>
+        </loadingpoint>
+        <loadingpoint aisle="13" coord="58">
+            <shelf id="43"/>
+            <shelf id="82"/>
+        </loadingpoint>
+        <loadingpoint aisle="13" coord="59">
+            <shelf id="45"/>
+            <shelf id="84"/>
+        </loadingpoint>
+        <loadingpoint aisle="13" coord="60">
+            <shelf id="47"/>
+            <shelf id="86"/>
+        </loadingpoint>
+        <loadingpoint aisle="13" coord="61">
+            <shelf id="49"/>
+            <shelf id="88"/>
+        </loadingpoint>
+        <loadingpoint aisle="13" coord="62">
+            <shelf id="51"/>
+            <shelf id="90"/>
+        </loadingpoint>
+        <loadingpoint aisle="13" coord="63">
+            <shelf id="53"/>
+            <shelf id="92"/>
+        </loadingpoint>
+        <loadingpoint aisle="13" coord="64">
+            <shelf id="55"/>
+            <shelf id="94"/>
+        </loadingpoint>
+        <loadingpoint aisle="13" coord="65">
+            <shelf id="57"/>
+            <shelf id="96"/>
+        </loadingpoint>
+        <loadingpoint aisle="13" coord="66">
+            <shelf id="59"/>
+            <shelf id="98"/>
+        </loadingpoint>
+
+
+        <loadingpoint aisle="16" coord="67">
+            <shelf id="61"/>
+            <shelf id="100"/>
+        </loadingpoint>
+        <loadingpoint aisle="16" coord="68">
+            <shelf id="63"/>
+            <shelf id="102"/>
+        </loadingpoint>
+        <loadingpoint aisle="16" coord="69">
+            <shelf id="65"/>
+            <shelf id="104"/>
+        </loadingpoint>
+        <loadingpoint aisle="16" coord="70">
+            <shelf id="67"/>
+            <shelf id="106"/>
+        </loadingpoint>
+        <loadingpoint aisle="16" coord="71">
+            <shelf id="69"/>
+            <shelf id="108"/>
+        </loadingpoint>
+        <loadingpoint aisle="16" coord="72">
+            <shelf id="71"/>
+            <shelf id="110"/>
+        </loadingpoint>
+        <loadingpoint aisle="16" coord="73">
+            <shelf id="73"/>
+            <shelf id="112"/>
+        </loadingpoint>
+        <loadingpoint aisle="16" coord="74">
+            <shelf id="75"/>
+            <shelf id="114"/>
+        </loadingpoint>
+        <loadingpoint aisle="16" coord="75">
+            <shelf id="77"/>
+            <shelf id="116"/>
+        </loadingpoint>
+        <loadingpoint aisle="16" coord="76">
+            <shelf id="79"/>
+            <shelf id="118"/>
+        </loadingpoint>
+
+
+
+        <!-- LOADING POINT: Column x=525 -->
+        <loadingpoint aisle="14" coord="77">
+            <shelf id="81"/>
+            <shelf id="120"/>
+        </loadingpoint>
+        <loadingpoint aisle="14" coord="78">
+            <shelf id="83"/>
+            <shelf id="122"/>
+        </loadingpoint>
+        <loadingpoint aisle="14" coord="79">
+            <shelf id="85"/>
+            <shelf id="124"/>
+        </loadingpoint>
+        <loadingpoint aisle="14" coord="80">
+            <shelf id="87"/>
+            <shelf id="126"/>
+        </loadingpoint>
+        <loadingpoint aisle="14" coord="81">
+            <shelf id="89"/>
+            <shelf id="128"/>
+        </loadingpoint>
+        <loadingpoint aisle="14" coord="82">
+            <shelf id="91"/>
+            <shelf id="130"/>
+        </loadingpoint>
+        <loadingpoint aisle="14" coord="83">
+            <shelf id="93"/>
+            <shelf id="132"/>
+        </loadingpoint>
+        <loadingpoint aisle="14" coord="84">
+            <shelf id="95"/>
+            <shelf id="134"/>
+        </loadingpoint>
+        <loadingpoint aisle="14" coord="85">
+            <shelf id="97"/>
+            <shelf id="136"/>
+        </loadingpoint>
+        <loadingpoint aisle="14" coord="86">
+            <shelf id="99"/>
+            <shelf id="138"/>
+        </loadingpoint>
+
+
+        <loadingpoint aisle="17" coord="87">
+            <shelf id="101"/>
+            <shelf id="140"/>
+        </loadingpoint>
+        <loadingpoint aisle="17" coord="88">
+            <shelf id="103"/>
+            <shelf id="142"/>
+        </loadingpoint>
+        <loadingpoint aisle="17" coord="89">
+            <shelf id="105"/>
+            <shelf id="144"/>
+        </loadingpoint>
+        <loadingpoint aisle="17" coord="90">
+            <shelf id="107"/>
+            <shelf id="146"/>
+        </loadingpoint>
+        <loadingpoint aisle="17" coord="91">
+            <shelf id="109"/>
+            <shelf id="148"/>
+        </loadingpoint>
+        <loadingpoint aisle="17" coord="92">
+            <shelf id="111"/>
+            <shelf id="150"/>
+        </loadingpoint>
+        <loadingpoint aisle="17" coord="93">
+            <shelf id="113"/>
+            <shelf id="152"/>
+        </loadingpoint>
+        <loadingpoint aisle="17" coord="94">
+            <shelf id="115"/>
+            <shelf id="154"/>
+        </loadingpoint>
+        <loadingpoint aisle="17" coord="95">
+            <shelf id="117"/>
+            <shelf id="156"/>
+        </loadingpoint>
+        <loadingpoint aisle="17" coord="96">
+            <shelf id="119"/>
+            <shelf id="158"/>
+        </loadingpoint>
+
+
+        <!-- LOADING POINT: Column x=675 -->
+        <loadingpoint aisle="4" coord="97">
+            <shelf id="121"/>
+        </loadingpoint>
+        <loadingpoint aisle="4" coord="98">
+            <shelf id="123"/>
+        </loadingpoint>
+        <loadingpoint aisle="4" coord="99">
+            <shelf id="125"/>
+        </loadingpoint>
+        <loadingpoint aisle="4" coord="100">
+            <shelf id="127"/>
+        </loadingpoint>
+        <loadingpoint aisle="4" coord="101">
+            <shelf id="129"/>
+        </loadingpoint>
+        <loadingpoint aisle="4" coord="102">
+            <shelf id="131"/>
+        </loadingpoint>
+        <loadingpoint aisle="4" coord="103">
+            <shelf id="133"/>
+        </loadingpoint>
+        <loadingpoint aisle="4" coord="104">
+            <shelf id="135"/>
+        </loadingpoint>
+        <loadingpoint aisle="4" coord="105">
+            <shelf id="137"/>
+        </loadingpoint>
+        <loadingpoint aisle="4" coord="106">
+            <shelf id="139"/>
+        </loadingpoint>
+
+
+        <loadingpoint aisle="5" coord="107">
+            <shelf id="141"/>
+        </loadingpoint>
+        <loadingpoint aisle="5" coord="108">
+            <shelf id="143"/>
+        </loadingpoint>
+        <loadingpoint aisle="5" coord="109">
+            <shelf id="145"/>
+        </loadingpoint>
+        <loadingpoint aisle="5" coord="110">
+            <shelf id="147"/>
+        </loadingpoint>
+        <loadingpoint aisle="5" coord="111">
+            <shelf id="149"/>
+        </loadingpoint>
+        <loadingpoint aisle="5" coord="112">
+            <shelf id="151"/>
+        </loadingpoint>
+        <loadingpoint aisle="5" coord="113">
+            <shelf id="153"/>
+        </loadingpoint>
+        <loadingpoint aisle="5" coord="114">
+            <shelf id="155"/>
+        </loadingpoint>
+        <loadingpoint aisle="5" coord="115">
+            <shelf id="157"/>
+        </loadingpoint>
+        <loadingpoint aisle="5" coord="116">
+            <shelf id="159"/>
+        </loadingpoint>
+    </loadingpoints>
+    
+    <chungusmegashelfs>
+    	<bigshelf id="0" coordinatik1="100" coordinatik2="100"/>
+    	<bigshelf id="1" coordinatik1="100" coordinatik2="450"/>
+    	<bigshelf id="2" coordinatik1="250" coordinatik2="100"/>
+    	<bigshelf id="3" coordinatik1="250" coordinatik2="450"/>
+    	<bigshelf id="4" coordinatik1="400" coordinatik2="100"/>
+    	<bigshelf id="5" coordinatik1="400" coordinatik2="450"/>
+    	<bigshelf id="6" coordinatik1="550" coordinatik2="100"/>
+    	<bigshelf id="7" coordinatik1="550" coordinatik2="450"/>
+    </chungusmegashelfs>
+</class>

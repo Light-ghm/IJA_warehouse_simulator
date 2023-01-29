@@ -1,0 +1,29 @@
+<?xml version = "1.0"?>
+<class>
+    <order orderid="100">
+        <item itemid="1" quantity="2"/>
+        <item itemid="2" quantity="2"/>
+        <item itemid="3" quantity="1"/>
+        <item itemid="0" quantity="1"/>
+    </order>
+    <order orderid="101">
+        <item itemid="1" quantity="1"/>
+        <item itemid="19" quantity="2"/>
+        <item itemid="20" quantity="3"/>
+    </order>
+    <order orderid="102">
+        <item itemid="31" quantity="1"/>
+        <item itemid="24" quantity="2"/>
+        <item itemid="32" quantity="1"/>
+    </order>
+    <order orderid="103">
+        <item itemid="8" quantity="1"/>
+        <item itemid="12" quantity="2"/>
+        <item itemid="7" quantity="1"/>
+    </order>
+    <order orderid="104">
+        <item itemid="40" quantity="2"/>
+        <item itemid="26" quantity="2"/>
+        <item itemid="30" quantity="3"/>
+    </order>
+</class>
